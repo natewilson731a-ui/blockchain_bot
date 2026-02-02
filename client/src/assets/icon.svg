@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#000033"/>
+  <g transform="translate(56, 56) scale(0.78)">
+    <!-- Blockchain cubes -->
+    <g transform="rotate(0 256 256)">
+      <path d="M256 128l-64 32v64l64 32 64-32v-64z" fill="#40E0FF" opacity="0.9"/>
+      <path d="M384 192l-64 32v64l64 32 64-32v-64z" fill="#40E0FF" opacity="0.8"/>
+      <path d="M128 192l-64 32v64l64 32 64-32v-64z" fill="#40E0FF" opacity="0.7"/>
+      <path d="M256 320l-64 32v64l64 32 64-32v-64z" fill="#40E0FF" opacity="0.6"/>
+      <path d="M256 64l-64 32v64l64 32 64-32v-64z" fill="#40E0FF" opacity="0.5"/>
+    </g>
+    <!-- Ballot box in the center -->
+    <g transform="translate(224, 224)">
+      <rect x="0" y="0" width="64" height="64" rx="8" fill="#8A7CFF"/>
+      <rect x="16" y="8" width="32" height="4" fill="white"/>
+      <path d="M24 20l8 8 16-16" stroke="white" stroke-width="4" fill="none"/>
+    </g>
+  </g>
+</svg> 
